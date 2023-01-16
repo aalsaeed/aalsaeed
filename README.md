@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is Ahmed working for 18years API Integration , Mobile Apps , Web Development , Oracle JDE Developer
+This is Ahmed working for 18years API Integration , Mobile Apps , Web Development , Oracle JDE Developer & ECommerce. 
 
 - 🔭 I’m currently working on ... Delivery Management System
 - 🌱 I’m currently learning ...Vue.js

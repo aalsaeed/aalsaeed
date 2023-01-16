@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...ERP Integration & AIML 
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ... a.alsaeed1979@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: ... He/him
 - ⚡ Fun fact: ... I am Half finish
 -->

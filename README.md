@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-
-**aalsaeed/aalsaeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+This is Ahmed working for 18years API Integration , Mobile Apps , Web Development , Oracle JDE Developer
 
 - 🔭 I’m currently working on ... Delivery Management System
 - 🌱 I’m currently learning ...Vue.js
